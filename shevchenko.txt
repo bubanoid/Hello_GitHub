@@ -15,4 +15,9 @@
 Щоб загарбить і з собою
 Взять у домовину
 >>>>>>> ca9a577e4a56371aa159c21b0ff92649b3c5182b
+<<<<<<< HEAD
 >>>>>>> 58ced8ba2533cf1303350ff25defddc0a6715163
+=======
+
+stop working and go home!!!
+>>>>>>> 00cc66d132255e5b5a8fdb7cdd7ba34a5b3f81d5
